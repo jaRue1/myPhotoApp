@@ -92,12 +92,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
+    "url": "git+https://github.com/jaRue1/myPhotoApp"
   },
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "name": "Rue",
+    "email": "hello@gmail.com",
+    "url": "https://github.com/jaRue1/myPhotoApp"
   },
   "contributors": [
     {
@@ -254,6 +254,7 @@
     "history": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-easy-crop": "^3.3.3",
     "react-router-dom": "^5.2.0",
     "regenerator-runtime": "^0.13.5",
     "source-map-support": "^0.5.19"
